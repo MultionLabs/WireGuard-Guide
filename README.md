@@ -190,6 +190,8 @@ NetMaker Architecture. Credit: [Netmaker](https://netmaker.readthedocs.io/en/v0.
 
 [Headscale](https://github.com/juanfont/headscale) is an open source, self-hosted implementation of the Tailscale coordination server.
 
+[wireport](https://github.com/MultionLabs/wireport) - WireGuard-based ingress-proxy. More than just performant tunneling (HTTP(-s)/2, WebSockets, gRPC, TCP, UDP, auto-TLS/SSL): securely resolves remote Docker container names as local hostnames, accelerating production debugging and local development workflows. Easy self-hosting (no tinkering with docker-compose and configs).
+
 [Terraform-provider-Tailscale](https://github.com/tailscale/terraform-provider-tailscale) is a project for for the [Tailscale Terraform provider](https://registry.terraform.io/providers/tailscale/tailscale). This Terraform provider that lets you interact with the [Tailscale](https://tailscale.com/) API.
 
 [Tailscale Chocolatey Package](https://github.com/tailscale/tailscale-chocolatey) is a [Chocolatey](https://chocolatey.org/) package of the [Tailscale](https://tailscale.com/) client, the private networking solution.
